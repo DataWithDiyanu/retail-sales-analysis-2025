@@ -223,6 +223,10 @@ The dashboard contains three key performance indicators (KPIs):
 
 Together, the dashboard provides an overview of sales trends, product performance, category profitability, and regional margins. The dashboard is designed to help viewers compare performance and identify important patterns quickly.
 
+### Project Workbook
+
+[Download the Retail Sales Analysis Workbook](./retail-sales-analysis-2025.xlsx)
+
 ## 10. Practical Recommendations
 
 The following recommendations are based on the observed patterns. They are suggestions for further business consideration, not proven solutions to the causes of the results.
